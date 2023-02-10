@@ -1,4 +1,4 @@
-import { PrimeiroComponenteComponent } from './primeiro-componente/primeiro-componente.component';
+
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -16,7 +16,7 @@ import { ComponentePersonalizadoComponent } from './componente-personalizado/com
 @NgModule({
   declarations: [
     AppComponent,
-    PrimeiroComponenteComponent,
+
     SegundoComponenteComponent,
     MultiplicaPorPipe,
     PipeCustumizadoComponent,
